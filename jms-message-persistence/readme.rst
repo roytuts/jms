@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/jms-message-persistence-example/
+Please follow the tutorial https://roytuts.com/jms-message-persistence-example/
